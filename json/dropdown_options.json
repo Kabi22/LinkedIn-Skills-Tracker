@@ -1,0 +1,286 @@
+[ 
+  {
+    "label": "All",
+    "value": "All"
+  },
+  {
+    "label": "Mining & Metals",
+    "value": "Mining & Metals"
+  },
+  {
+    "label": "Oil & Energy",
+    "value": "Oil & Energy"
+  },
+  {
+    "label": "Pharmaceuticals",
+    "value": "Pharmaceuticals"
+  },
+  {
+    "label": "Food Production",
+    "value": "Food Production"
+  },
+  {
+    "label": "Aviation & Aerospace",
+    "value": "Aviation & Aerospace"
+  },
+  {
+    "label": "Automotive",
+    "value": "Automotive"
+  },
+  {
+    "label": "Chemicals",
+    "value": "Chemicals"
+  },
+  {
+    "label": "Machinery",
+    "value": "Machinery"
+  },
+  {
+    "label": "Textiles",
+    "value": "Textiles"
+  },
+  {
+    "label": "Paper & Forest Products",
+    "value": "Paper & Forest Products"
+  },
+  {
+    "label": "Printing",
+    "value": "Printing"
+  },
+  {
+    "label": "Electrical & Electronic Manufacturing",
+    "value": "Electrical & Electronic Manufacturing"
+  },
+  {
+    "label": "Plastics",
+    "value": "Plastics"
+  },
+  {
+    "label": "Renewables & Environment",
+    "value": "Renewables & Environment"
+  },
+  {
+    "label": "Packaging & Containers",
+    "value": "Packaging & Containers"
+  },
+  {
+    "label": "Industrial Automation",
+    "value": "Industrial Automation"
+  },
+  {
+    "label": "Computer Hardware",
+    "value": "Computer Hardware"
+  },
+  {
+    "label": "Computer Software",
+    "value": "Computer Software"
+  },
+  {
+    "label": "Computer Networking",
+    "value": "Computer Networking"
+  },
+  {
+    "label": "Internet",
+    "value": "Internet"
+  },
+  {
+    "label": "Semiconductors",
+    "value": "Semiconductors"
+  },
+  {
+    "label": "Telecommunications",
+    "value": "Telecommunications"
+  },
+  {
+    "label": "Motion Pictures & Film",
+    "value": "Motion Pictures & Film"
+  },
+  {
+    "label": "Broadcast Media",
+    "value": "Broadcast Media"
+  },
+  {
+    "label": "Newspapers",
+    "value": "Newspapers"
+  },
+  {
+    "label": "Publishing",
+    "value": "Publishing"
+  },
+  {
+    "label": "Information Technology & Services",
+    "value": "Information Technology & Services"
+  },
+  {
+    "label": "Writing & Editing",
+    "value": "Writing & Editing"
+  },
+  {
+    "label": "Computer Games",
+    "value": "Computer Games"
+  },
+  {
+    "label": "Online Media",
+    "value": "Online Media"
+  },
+  {
+    "label": "Computer & Network Security",
+    "value": "Computer & Network Security"
+  },
+  {
+    "label": "Media Production",
+    "value": "Media Production"
+  },
+  {
+    "label": "Banking",
+    "value": "Banking"
+  },
+  {
+    "label": "Insurance",
+    "value": "Insurance"
+  },
+  {
+    "label": "Financial Services",
+    "value": "Financial Services"
+  },
+  {
+    "label": "Investment Banking",
+    "value": "Investment Banking"
+  },
+  {
+    "label": "Investment Management",
+    "value": "Investment Management"
+  },
+  {
+    "label": "Venture Capital & Private Equity",
+    "value": "Venture Capital & Private Equity"
+  },
+  {
+    "label": "Law Practice",
+    "value": "Law Practice"
+  },
+  {
+    "label": "Legal Services",
+    "value": "Legal Services"
+  },
+  {
+    "label": "Management Consulting",
+    "value": "Management Consulting"
+  },
+  {
+    "label": "Biotechnology",
+    "value": "Biotechnology"
+  },
+  {
+    "label": "Veterinary",
+    "value": "Veterinary"
+  },
+  {
+    "label": "Accounting",
+    "value": "Accounting"
+  },
+  {
+    "label": "Architecture & Planning",
+    "value": "Architecture & Planning"
+  },
+  {
+    "label": "Research",
+    "value": "Research"
+  },
+  {
+    "label": "Executive Office",
+    "value": "Executive Office"
+  },
+  {
+    "label": "Marketing & Advertising",
+    "value": "Marketing & Advertising"
+  },
+  {
+    "label": "Information Services",
+    "value": "Information Services"
+  },
+  {
+    "label": "Environmental Services",
+    "value": "Environmental Services"
+  },
+  {
+    "label": "Market Research",
+    "value": "Market Research"
+  },
+  {
+    "label": "Public Relations & Communications",
+    "value": "Public Relations & Communications"
+  },
+  {
+    "label": "Design",
+    "value": "Design"
+  },
+  {
+    "label": "Professional Training & Coaching",
+    "value": "Professional Training & Coaching"
+  },
+  {
+    "label": "Translation & Localization",
+    "value": "Translation & Localization"
+  },
+  {
+    "label": "Events Services",
+    "value": "Events Services"
+  },
+  {
+    "label": "Outsourcing/Offshoring",
+    "value": "Outsourcing/Offshoring"
+  },
+  {
+    "label": "Mechanical Or Industrial Engineering",
+    "value": "Mechanical Or Industrial Engineering"
+  },
+  {
+    "label": "Photography",
+    "value": "Photography"
+  },
+  {
+    "label": "Graphic Design",
+    "value": "Graphic Design"
+  },
+  {
+    "label": "Entertainment",
+    "value": "Entertainment"
+  },
+  {
+    "label": "Gambling & Casinos",
+    "value": "Gambling & Casinos"
+  },
+  {
+    "label": "Sports",
+    "value": "Sports"
+  },
+  {
+    "label": "Museums & Institutions",
+    "value": "Museums & Institutions"
+  },
+  {
+    "label": "Fine Art",
+    "value": "Fine Art"
+  },
+  {
+    "label": "Performing Arts",
+    "value": "Performing Arts"
+  },
+  {
+    "label": "Arts & Crafts",
+    "value": "Arts & Crafts"
+  },
+  {
+    "label": "Music",
+    "value": "Music"
+  },
+  {
+    "label": "Health, Wellness & Fitness",
+    "value": "Health, Wellness & Fitness"
+  },
+  {
+    "label": "Animation",
+    "value": "Animation"
+  }
+]
