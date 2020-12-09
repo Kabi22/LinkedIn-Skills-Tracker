@@ -1,7 +1,7 @@
 # LinkedIn-Skills-Tracker
 
 Visualization of popular industry related skills based off of LinkedIn [data](https://datacatalog.worldbank.org/dataset/skills-linkedin-data).
-![](Animated GIF-downsized_large.gif)
+![](https://github.com/Kabi22/LinkedIn-Skills-Tracker/blob/master/Animated%20GIF-downsized_large.gif)
 ## Getting Started
 ### Using the Tool
 This tool lets you interactively explore the global industry skill needs. 
